@@ -1,0 +1,51 @@
+<div>
+    <form [formGroup]="service.form" class="normal-form" (submit)="onSubmit()">
+      <mat-grid-list cols="2" rowHeight="300px">
+            <mat-grid-tile>
+                <div class="controles-container">
+                    <input type="hidden" formControlName="id">
+                    <mat-form-field >
+                        <input formControlName="nom" matInput placeholder="Nom*">
+                        <mat-error>Ce champ est obligatoire.</mat-error>
+                    </mat-form-field>
+                    <mat-form-field >
+                      <input formControlName="postnom" matInput placeholder="Postnom*">
+                      <mat-error>Ce champ est obligatoire.</mat-error>
+                    </mat-form-field>
+                    <mat-form-field >
+                      <input formControlName="prenom" matInput placeholder="Prenom*">
+                      <mat-error>Ce champ est obligatoire.</mat-error>
+                    </mat-form-field>
+                    <mat-form-field>
+                      <input formControlName="email" matInput placeholder="E-mail">
+                      <mat-error>E-mail invalide.</mat-error>
+                    </mat-form-field>
+                </div>
+            </mat-grid-tile>
+            <mat-grid-tile>
+                <div class="controles-container">
+                  <mat-form-field>
+                    <input formControlName="photo" matInput placeholder="Photo">
+                  </mat-form-field>
+                  <div class="add-bottom-padding">
+                      <mat-radio-group formControlName="sexe" >
+                          <mat-radio-button value="1">Masculin</mat-radio-button>
+                          <mat-radio-button value="2">Feminin</mat-radio-button>
+                      </mat-radio-group>
+                  </div>
+                  <mat-form-field >
+                    <input formControlName="titreFormation" matInput placeholder="Titre Formation*">
+                    <mat-error *ngIf="service.form.controls['titreFormation'].errors?.required">Ce champ est obligatoire.</mat-error>
+                  <mat-error *ngIf="service.form.controls['titreFormation'].errors?.minlength">Minimum 8 caractère.</mat-error>
+                  </mat-form-field>
+                </div>
+            </mat-grid-tile>
+        </mat-grid-list>
+    </form>
+</div>
+<div>
+    <div class="button-row">
+        <button mat-raised-button color="primary" type="submit" (click)="onSubmit()" [disabled]="service.form.invalid">Submit</button>
+        <button mat-raised-button type="warn" (click)="onClear()">Clear</button>
+    </div>
+</div>

@@ -1,0 +1,10 @@
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.TagHelpers.input.cache
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.TagHelpers.output.cache
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.dll
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.pdb
+C:\Users\Plamedi L. Lusembo\source\Asp.Net-Core-MVC-CRUD-with-EF-Core-master\Asp.netCoreMVCCRUD\Asp.netCoreMVCCRUD\obj\Debug\netcoreapp3.1\Asp.netCoreMVCCRUD.RazorCoreGenerate.cache

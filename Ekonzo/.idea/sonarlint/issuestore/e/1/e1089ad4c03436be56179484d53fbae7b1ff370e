@@ -1,0 +1,7 @@
+
+c
+java:S4275F"FRefactor this getter so that it actually refers to the field "prenom".(ôøûì8ÖÇª¯¾.
+]	java:S107*"AConstructor has 9 parameters, which is greater than 7 authorized.(â÷‘8°¥æ®¾.
+s	java:S116"RRename this field "Postnom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ§„üÿÿÿÿ8‘×¸®¾.
+o
+java:S4275^"MRefactor this getter so that it actually refers to the field "dateNaissance".(£‘‡ıÿÿÿÿ8Û’«¯¾.
