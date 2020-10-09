@@ -1,0 +1,13 @@
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\bin\Debug\netcoreapp3.1\CalculoApp.deps.json
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\bin\Debug\netcoreapp3.1\CalculoApp.dll
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\bin\Debug\netcoreapp3.1\CalculoApp.pdb
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.dll
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.pdb
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\bin\Debug\netcoreapp3.1\CalculoApp.exe
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\bin\Debug\netcoreapp3.1\CalculoApp.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\bin\Debug\netcoreapp3.1\CalculoApp.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.genruntimeconfig.cache
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\CalculoApp\CalculoApp\obj\Debug\netcoreapp3.1\CalculoApp.csprojAssemblyReference.cache

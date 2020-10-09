@@ -1,0 +1,13 @@
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\bin\Debug\netcoreapp3.1\LAB01AritmeticaApp.exe
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\bin\Debug\netcoreapp3.1\LAB01AritmeticaApp.deps.json
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\bin\Debug\netcoreapp3.1\LAB01AritmeticaApp.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\bin\Debug\netcoreapp3.1\LAB01AritmeticaApp.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\bin\Debug\netcoreapp3.1\LAB01AritmeticaApp.dll
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\bin\Debug\netcoreapp3.1\LAB01AritmeticaApp.pdb
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.dll
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.pdb
+C:\Users\Plamedi L. Lusembo\source\repos\C# - Exercices\LAB01\LAB01AritmeticaApp\obj\Debug\netcoreapp3.1\LAB01AritmeticaApp.genruntimeconfig.cache
