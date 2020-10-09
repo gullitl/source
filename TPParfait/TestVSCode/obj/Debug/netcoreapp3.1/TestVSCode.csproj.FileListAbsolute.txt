@@ -1,0 +1,13 @@
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\bin\Debug\netcoreapp3.1\TestVSCode.exe
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\bin\Debug\netcoreapp3.1\TestVSCode.deps.json
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\bin\Debug\netcoreapp3.1\TestVSCode.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\bin\Debug\netcoreapp3.1\TestVSCode.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\bin\Debug\netcoreapp3.1\TestVSCode.dll
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\bin\Debug\netcoreapp3.1\TestVSCode.pdb
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.dll
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.pdb
+C:\Users\Plamedi L. Lusembo\source\TPParfait\TestVSCode\obj\Debug\netcoreapp3.1\TestVSCode.genruntimeconfig.cache

@@ -1,0 +1,27 @@
+C:\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+C:\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.genruntimeconfig.cache
+C:\Users\Plamedi L. Lusembo\Downloads\CRUD-com-ASP.NET-core-Visual-Studio-2017-master\Aula\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache

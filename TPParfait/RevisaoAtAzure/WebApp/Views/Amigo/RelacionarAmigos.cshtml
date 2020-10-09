@@ -1,0 +1,48 @@
+﻿@model WebApp.Models.Amigo.AmigosRelacionadosView
+
+@{
+    ViewData["Title"] = "RelacionarAmigos";
+}
+
+<h1>Relacionamentos do Amigo</h1>
+<hr />
+<br />
+<p>
+    Nome:&nbsp;@Model.Amigo?.Nome @Model.Amigo?.Sobrenome
+    <br />
+    Email:&nbsp;@Model.Amigo?.Email
+</p>
+
+<form action="/amigo/relacionaramigos" method="post">
+    <input type="hidden" name="Amigo.Id" value="@Model.Amigo.Id" />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Amigo</th>
+                <th>Nome</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model.TodosAmigos)
+            {
+                <tr>
+                    <td>
+                        @if(Model.AmigosRelacionadosIds.Contains(item.Id))
+                        {
+                            <input type="checkbox" name="AmigosRelacionadosIds[]" value="@item.Id" checked />
+                        } else
+                        {
+                            <input type="checkbox" name="AmigosRelacionadosIds[]" value="@item.Id" />
+                        }
+                    </td>
+                    <td>@item.Nome</td>
+                    <td>@item.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="form-group">
+        <input type="submit" value="Relacionar" class="btn btn-primary" /> | <a asp-action="Index">Listar</a>
+    </div>
+</form>

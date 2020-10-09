@@ -1,0 +1,76 @@
+﻿@model RedeSocial.WebApp.Models.Post.PostIndexViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Criar Post</h1>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form action="/post/create" enctype="multipart/form-data" method="post">
+            <div validation-summary="ModelOnly" class="text-danger"></div>
+            @if (Model.Erros.Any())
+            {
+                <div class="alert alert-danger" role="alert">
+                    <ul>
+                        @foreach (var erro in Model.Erros) { <li>@erro</li> }
+                    </ul>
+                </div>
+            }
+            <div class="mb-3">
+                <textarea class="form-control" name="texto" id="validationTextarea" placeholder="No que você está pensando?"></textarea>
+                <div class="invalid-feedback"></div>
+            </div>
+            <div class="form-group">
+                <input type="file" name="file" class="form-control" />
+                <span validation-for="Imagem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Postar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<hr />
+<h1>Posts Recentes</h1>
+<ul class="list-group list-group-flush">
+    @foreach (var item in Model.Posts)
+    {
+        <li class="list-group-item">
+
+            <!-- Button trigger modal -->
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal-@item.Id">
+                Excluir
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="exampleModal-@item.Id" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Você deseja excluir este Post?
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                            <a class="btn btn-primary" href="/post/delete/@item.Id" role="button">Excluir</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <img src="@item.Imagem" /><br />
+            @item.Texto
+        </li>
+    }
+</ul>
+
+

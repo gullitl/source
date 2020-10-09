@@ -1,0 +1,4 @@
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.contrat\bin\Debug\netcoreapp3.1\kelasys.esr.contrat.exe
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.contrat\obj\Debug\netcoreapp3.1\kelasys.esr.contrat.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.contrat\obj\Debug\netcoreapp3.1\kelasys.esr.contrat.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.contrat\obj\Debug\netcoreapp3.1\kelasys.esr.contrat.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.mainapp.deps.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.mainapp.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.mainapp.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.views.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.views.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.csproj.CopyComplete
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.mainapp.exe
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.mainapp.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.mainapp.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.mainapp.genruntimeconfig.cache

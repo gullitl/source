@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "kelasys.esr.mainapp/1.0.0": {
+        "dependencies": {
+          "kelasys.esr.views": "1.0.0"
+        },
+        "runtime": {
+          "kelasys.esr.mainapp.dll": {}
+        }
+      },
+      "kelasys.esr.views/1.0.0": {
+        "runtime": {
+          "kelasys.esr.views.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "kelasys.esr.mainapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "kelasys.esr.views/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

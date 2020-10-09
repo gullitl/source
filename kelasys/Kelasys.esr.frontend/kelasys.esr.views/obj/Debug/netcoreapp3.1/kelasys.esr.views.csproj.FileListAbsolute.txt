@@ -1,0 +1,11 @@
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\bin\Debug\netcoreapp3.1\kelasys.esr.views.deps.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\bin\Debug\netcoreapp3.1\kelasys.esr.views.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\bin\Debug\netcoreapp3.1\kelasys.esr.views.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.Form1.resources
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\kelasys.esr.views\obj\Debug\netcoreapp3.1\kelasys.esr.views.csproj.GenerateResource.cache

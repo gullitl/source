@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Asp.LinguagensWP.Models.Linguagem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h1>Lista de Linguagens</h1>
+<br />
+<p>
+    <a asp-action="Create">Cadastrar</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Autor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataCricao)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descricao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Autor.NomeCompleto)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataCricao)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Descricao)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.LinguagemId">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.LinguagemId">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.LinguagemId">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

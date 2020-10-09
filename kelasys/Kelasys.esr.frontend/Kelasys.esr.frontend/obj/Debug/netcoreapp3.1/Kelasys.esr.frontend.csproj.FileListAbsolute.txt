@@ -1,0 +1,16 @@
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\Kelasys.esr.frontend.exe
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\Kelasys.esr.frontend.deps.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\Kelasys.esr.frontend.runtimeconfig.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\Kelasys.esr.frontend.runtimeconfig.dev.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\Kelasys.esr.frontend.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\Kelasys.esr.frontend.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.csprojAssemblyReference.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\Kelasys.esr.frontend.genruntimeconfig.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.views.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\bin\Debug\netcoreapp3.1\kelasys.esr.views.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.frontend\Kelasys.esr.frontend\obj\Debug\netcoreapp3.1\kelasys.esr.frontend.csproj.CopyComplete

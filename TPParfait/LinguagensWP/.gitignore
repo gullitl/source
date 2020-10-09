@@ -1,0 +1,11 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# chache files
+.vs
+/LinguagensWP.App/bin
+/LinguagensWP.App/obj
+/LinguagensWP.DataAcess/bin
+/LinguagensWP.DataAcess/obj
+/LinguagensWP.Models/bin
+/LinguagensWP.Models/obj
+

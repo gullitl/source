@@ -1,0 +1,8 @@
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\bin\Debug\netcoreapp3.1\kelasys.esr.models.deps.json
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\bin\Debug\netcoreapp3.1\kelasys.esr.models.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\bin\Debug\netcoreapp3.1\kelasys.esr.models.pdb
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\obj\Debug\netcoreapp3.1\kelasys.esr.models.csproj.CoreCompileInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\obj\Debug\netcoreapp3.1\kelasys.esr.models.AssemblyInfoInputs.cache
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\obj\Debug\netcoreapp3.1\kelasys.esr.models.AssemblyInfo.cs
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\obj\Debug\netcoreapp3.1\kelasys.esr.models.dll
+C:\Users\Plamedi L. Lusembo\source\kelasys\Kelasys.esr.backend\kelasys.esr.models\obj\Debug\netcoreapp3.1\kelasys.esr.models.pdb

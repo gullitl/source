@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\kelasys.esr.contrat\kelasys.esr.contrats.csproj" />
+    <ProjectReference Include="..\kelasys.esr.dbaccess\kelasys.esr.dbaccess.csproj" />
+    <ProjectReference Include="..\kelasys.esr.services\kelasys.esr.services.csproj" />
+  </ItemGroup>
+
+
+</Project>
